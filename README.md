@@ -50,7 +50,10 @@ PapaverSomniferum-qt
 PapaverSomniferum Explorer
 -------------
 
-[Explorer](http://explorer.soporific.info:3001)
+[Explorer](http://45.76.47.47:3001/)
+
+
+Could be lagging!
 
 
 -----
