@@ -100,6 +100,7 @@ General coin information
 - Algorithm: **x11 Hybrid / pure PoS from 40,000 blocks** 
 - RPC Port: **8155**
 - P2P Port: **8154**
+- Total Coins: **Aproximately 4.8 million**
 
 
 -----
