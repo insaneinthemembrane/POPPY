@@ -43,7 +43,7 @@ Papaver Somniferum [POPPY]
 PapaverSomniferum-qt
 -------------
 
-[Wallet-QT](https://github.com/insaneinthemembrane/POPPY-QT/blob/master/PapaverSomniferum-qt.zip)
+[Wallet-QT](https://github.com/insaneinthemembrane/POPPY-QT-NEW)
 
 -----
 
