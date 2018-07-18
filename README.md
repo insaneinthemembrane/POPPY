@@ -2,7 +2,7 @@ Papaver Somniferum [POPPY]
 ===================
 
 
-![logo](https://cdn.pbrd.co/images/GC8SRoM.png)
+![logo](https://cdn.pbrd.co/images/HtZpjDO.png)
 
 
 
